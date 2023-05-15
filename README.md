@@ -1,6 +1,6 @@
 # SYSTEM LAB ASSIGNMENTS
 
-System Lab Assignments @ IITG for Jan-May 2023
+System Lab Assignments @ IITG for Jan-May 2023 (CS588)
 
 Group 1 (Members)
   - Mayukh Das
