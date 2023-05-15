@@ -1,0 +1,8 @@
+ques1? (A)opt1 (B)opt2 (C)opt3 (D)opt4 
+ques2? (A)opt1 (B)opt2 (C)opt3 (D)opt4 
+ques3? (A)opt1 (B)opt2 (C)opt3 (D)opt4 
+ques4? (A)opt1 (B)opt2 (C)opt3 (D)opt4 
+ques5? (A)opt1 (B)opt2 (C)opt3 (D)opt4 
+ques6? (A)opt1 (B)opt2 (C)opt3 (D)opt4 
+ques7? (A)opt1 (B)opt2 (C)opt3 (D)opt4 
+CBBACDA

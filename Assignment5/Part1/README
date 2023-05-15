@@ -1,0 +1,16 @@
+Instructions to run the code
+Open the terminal in "Part1" directory and enter the make command to compile
+The program accepts two optional positional arguments
+First Argument is Batch Size to enter and leave the restaurant
+Second Argument is minimum number of diners which are coming to the restaurant
+
+The program runs indefinitely without stopping and necessary messages are displayed.
+The program can be stopped using Ctrl + C command from keyboard.
+
+Example:
+./ass5_1 
+    This will run the code with default values of batch size and minimum diners
+./ass5_1 10 
+    This will run the code with batch size 10 and default value for minimum diners
+./ass5_1 10 1000
+    This will run the code with batch size 10 and minimum diners as 1000
